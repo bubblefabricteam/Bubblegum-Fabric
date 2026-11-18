@@ -2,7 +2,7 @@
  const pages=[
   {name:'Início',url:'index.html',words:'home começo principal'},
   {name:'Sobre',url:'sobre.html',words:'projeto história ideia'},
-  {name:'Equipe',url:'equipe.html',words:'ana guilherme raul pessoas'},
+  {name:'Equipe',url:'equipe.html',words:'sorria2297 aninha_soft guilherme154696 joasmellos pessoas programação liderança modelagem sons'},
   {name:'O jogo',url:'jogo.html',words:'roblox gameplay lobby exploração gum'},
   {name:'Toons',url:'toons.html',words:'melias rusty bubbie millow personagens'},
   {name:'Galeria',url:'galeria.html',words:'imagens artes fotos'},
