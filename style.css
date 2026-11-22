@@ -94,3 +94,7 @@ body.dark footer{background:#211a23}
 .millow-name{background:linear-gradient(90deg,#55ad72,#b6a83f,#e89a55);-webkit-background-clip:text;background-clip:text;color:transparent}
 body.dark .favorite-card{background:linear-gradient(145deg,var(--surface),rgba(120,65,100,.18));border-color:#80516d}
 body.dark .favorite-tag{background:linear-gradient(90deg,#57334d,#51442b);color:#ffd5eb}
+
+/* Categoria dos mascotes regulares */
+.regular-tag{background:#e8e2ff;color:#66539b}
+body.dark .regular-tag{background:#39304f;color:#d8caff}
