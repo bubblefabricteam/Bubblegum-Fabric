@@ -84,3 +84,13 @@ body.dark footer{background:#211a23}
  .grid{grid-template-columns:1fr}.footer{flex-direction:column}
 }
 @media(prefers-reduced-motion:reduce){*,*::before,*::after{scroll-behavior:auto!important;animation-duration:.01ms!important;transition-duration:.01ms!important}.reveal{opacity:1;transform:none}}
+
+
+/* Mascotes favoritos */
+.favorite-card{border-color:#e8b4d0;background:linear-gradient(145deg,var(--surface),rgba(255,224,240,.28))}
+.favorite-tag{background:linear-gradient(90deg,#ffe0f0,#fff0c9);color:#9b3e75}
+.favorite-name{font-weight:800;letter-spacing:-.5px}
+.bubbie-name{background:linear-gradient(90deg,#ec70b2,#8b78ee,#56b9e8);-webkit-background-clip:text;background-clip:text;color:transparent}
+.millow-name{background:linear-gradient(90deg,#55ad72,#b6a83f,#e89a55);-webkit-background-clip:text;background-clip:text;color:transparent}
+body.dark .favorite-card{background:linear-gradient(145deg,var(--surface),rgba(120,65,100,.18));border-color:#80516d}
+body.dark .favorite-tag{background:linear-gradient(90deg,#57334d,#51442b);color:#ffd5eb}
